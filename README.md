@@ -1,2 +1,2 @@
 # website
-Criação de um website usando HTML,CSS e javaScript
+Criação de um website  responsivo usando HTML,CSS e javaScript
